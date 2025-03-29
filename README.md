@@ -1,4 +1,6 @@
 ✂️ Barbearia Bronx ✂️
+
+
 Bem-vindo ao Barbearia  Bronx – o lugar onde estilo e tradição se encontram! Nosso projeto é um site moderno e responsivo para barbearias, criado para oferecer uma experiência única aos clientes, desde agendamento de serviços até dicas de cuidados com a barba e cabelo.
 
 🚀 Recursos do Projeto
